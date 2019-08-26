@@ -34,7 +34,7 @@ Few basic features you can find in any editing app like Crop, Rotate, Straighten
   > **You can see my sample Snapseed edit as follows**
 
 **Before editing**: 
-![Before](20190801121854_IMG_4020.JPG.jpg)
+![Before](pic1.jpg)
 
 **After editing**: 
 ![After](unnamed.jpg)
