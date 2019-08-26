@@ -1,7 +1,9 @@
 # Snapseed - The best app which can make you Smarter and Stylish
 
 ## About:
-Snapseed is a photo-editing application produced by Nik Software, owned by Google, available for both iOS and Android, which enables users to enhance photos and apply "Digital and High-Dimensional" filters. 
+- Snapseed is a photo-editing application produced by Nik Software, owned by Google, available for both iOS and Android, which enables users to enhance photos and apply "Digital and High-Dimensional" filters.
+
+- **Snapseed** users can edit pictures using swiping gestures to select different effects and enhancements. Alternatively, users can opt for an "automatic" adjustment of color and contrast. Snapseed can save users editing history and redirect to any of the actions before. 
 
 Download it [here](https://apps.apple.com/us/app/snapseed/id439438619) for iOS and [here](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US) for Android 
 
@@ -41,9 +43,14 @@ Few basic features you can find in any editing app like Crop, Rotate, Straighten
 
 ***
 
-## Challenge for you:
-Use snapseed for editing your favorite picture and show your editing skills. You can project the output at my [instagram](https://www.instagram.com/cherry_prasanna/)
+# Challenge for you:
+Here is a big challenge for you. Use snapseed for editing your favorite picture and show your editing skills. You can project the output at my [instagram](https://www.instagram.com/cherry_prasanna/)
+
+**Come on girls...Hurry up!!!**
+
 
 **References**:
 - [Markdownguide](https://www.markdownguide.org)
+- [Snapseed Logo](https://tr2.cbsistatic.com/hub/i/r/2017/06/27/a8c9dffc-6902-4f5b-99bc-83c0f12007ab/resize/1200x/33ae27ebbc178931bb1a341c38c74011/snapseedhero.jpg)
+- Wikipedia(https://www.wikipedia.org/)
 
