@@ -52,5 +52,5 @@ Here is a big challenge for you. Use snapseed for editing your favorite picture 
 **References**:
 - [Markdownguide](https://www.markdownguide.org)
 - [Snapseed Logo](https://tr2.cbsistatic.com/hub/i/r/2017/06/27/a8c9dffc-6902-4f5b-99bc-83c0f12007ab/resize/1200x/33ae27ebbc178931bb1a341c38c74011/snapseedhero.jpg)
-- Wikipedia(https://www.wikipedia.org/)
+- [Wikipedia](https://www.wikipedia.org/)
 
