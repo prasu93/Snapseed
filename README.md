@@ -34,10 +34,10 @@ Few basic features you can find in any editing app like Crop, Rotate, Straighten
   > **You can see my sample Snapseed edit as follows**
 
 **Before editing**: 
-![Before](https://github.com/prasu93/hello-america/blob/master/20190801121854_IMG_4020.JPG.jpg)
+![Before](https://github.com/prasu93/Snapseed/blob/master/20190801121854_IMG_4020.JPG.jpg)
 
 **After editing**: 
-![After](https://github.com/prasu93/hello-america/blob/master/unnamed.jpg)
+![After](https://github.com/prasu93/Snapseed/blob/master/unnamed.jpg)
 
 ***
 
