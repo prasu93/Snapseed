@@ -37,7 +37,7 @@ Few basic features you can find in any editing app like Crop, Rotate, Straighten
 ![Before](pic11.jpg)
 
 **After editing**: 
-![After](unnamed.jpg)
+![After](unnamed1.jpg)
 
 ***
 
