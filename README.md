@@ -1,4 +1,4 @@
-# Snapseed - The best app which can make you Smarter and Stylish
+# Snapseed - The best app which can make you Smarter and Stylish!
 
 ## About:
 - Snapseed is a photo-editing application produced by Nik Software, owned by Google, available for both iOS and Android, which enables users to enhance photos and apply "Digital and High-Dimensional" filters.
